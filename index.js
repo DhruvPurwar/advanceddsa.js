@@ -20,5 +20,6 @@ module.exports = { DataStructures };
 // 6. Do npm publish. Your package will get created.
 // 7. Test your package by installing it and trying its commands.
 // 8. Now , create a README file , so your npm package page show that file.
+// 9. Add repository property to package.json
 
 //  Refer https://docs.npmjs.com/creating-and-publishing-private-packages/
