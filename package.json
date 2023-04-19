@@ -1,0 +1,11 @@
+{
+  "name": "advanceddsa.js",
+  "version": "1.0.0",
+  "description": "A package to implement tough data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhruv",
+  "license": "ISC"
+}
